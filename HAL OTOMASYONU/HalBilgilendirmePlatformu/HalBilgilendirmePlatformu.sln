@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalBilgilendirmePlatformu", "HalBilgilendirmePlatformu.csproj", "{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "hal_bilgilendirme Setup", "..\hal_bilgilendirme Setup\hal_bilgilendirme Setup.vdproj", "{3B6A1C2B-7784-4804-9623-086E030FB596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6A1C2B-7784-4804-9623-086E030FB596}.Debug|Any CPU.ActiveCfg = Debug
+		{3B6A1C2B-7784-4804-9623-086E030FB596}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

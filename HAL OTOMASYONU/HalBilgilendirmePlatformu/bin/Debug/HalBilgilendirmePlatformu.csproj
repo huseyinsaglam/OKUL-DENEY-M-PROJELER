@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{151F39C1-E977-4ED9-B01B-6EEA230ADDBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HalBilgilendirmePlatformu</RootNamespace>
+    <AssemblyName>HalBilgilendirmePlatformu</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acilis.Designer.cs">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baglanti.cs" />
+    <Compile Include="conn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conn.Designer.cs">
+      <DependentUpon>conn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1_2.cs" />
+    <Compile Include="HALDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HALDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hal_ProjesiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Hal_ProjesiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UyeEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeEkrani.Designer.cs">
+      <DependentUpon>UyeEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeGiris.Designer.cs">
+      <DependentUpon>UyeGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeKaydi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeKaydi.Designer.cs">
+      <DependentUpon>UyeKaydi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acilis.resx">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conn.resx">
+      <DependentUpon>conn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UyeEkrani.resx">
+      <DependentUpon>UyeEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeGiris.resx">
+      <DependentUpon>UyeGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeKaydi.resx">
+      <DependentUpon>UyeKaydi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HALDataSet.xsc">
+      <DependentUpon>HALDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HALDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HALDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HALDataSet.xss">
+      <DependentUpon>HALDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Hal_ProjesiDataSet.xsc">
+      <DependentUpon>Hal_ProjesiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Hal_ProjesiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Hal_ProjesiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Hal_ProjesiDataSet.xss">
+      <DependentUpon>Hal_ProjesiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\clint_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\user-group-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\Search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\GERİ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\Geri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\save-icon-floppy-disk-53341.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\EXCEL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\sepet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\üçıkış.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

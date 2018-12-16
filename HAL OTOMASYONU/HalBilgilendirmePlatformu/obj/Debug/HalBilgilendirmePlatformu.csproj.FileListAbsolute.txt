@@ -1,0 +1,134 @@
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+c:\users\enes_\documents\visual studio 2013\Projects\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HalBilgilendirmePlatformu\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+C:\Users\HÜSEYİN SAĞLAM\HalBilgilendirmePlatformu - Kopya\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+D:\Nesne LAb\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+D:\Nesne Lab\2\HalBilgilendirmePlatformu19042017\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+D:\Nesne Lab\4\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+D:\Nesne Lab\5\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+D:\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.conn.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\Nesne Lab - sonKopya\Nesne Lab\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
+C:\Users\HÜSEYİN SAĞLAM\Desktop\6\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\Desktop\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\6\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe.config
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.exe
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\bin\Debug\HalBilgilendirmePlatformu.pdb
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csprojResolveAssemblyReference.cache
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.acilis.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.conn.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.HalAnaEkran.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.Properties.Resources.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.UyeEkrani.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeGirisi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.uyeKaydi.resources
+C:\Users\HÜSEYİN SAĞLAM\Desktop\HAL OTOMASYONU\HalBilgilendirmePlatformu\obj\Debug\HalBilgilendirmePlatformu.csproj.GenerateResource.Cache
