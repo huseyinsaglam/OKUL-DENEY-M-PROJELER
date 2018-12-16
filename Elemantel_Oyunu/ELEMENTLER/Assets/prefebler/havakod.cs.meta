@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c86b327c7243853499190660146da959
+timeCreated: 1493675934
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - havadusman: {fileID: 1704903949613706, guid: d88a700c13b0dde47931cb676cfb82c1,
+      type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
